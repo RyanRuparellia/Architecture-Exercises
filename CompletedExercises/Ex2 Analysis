@@ -6,9 +6,9 @@ Prompt: 'Ready, set, go!', he said
 Generated (len=20, temp=0.5, top_k=10): 'Ready, set, go!', he said. "I'm just going to go to the airport and I'll do it."
 
 
-.
-.
-.
+
+
+etc.
 Generation Time: 3.7958 seconds
 Token Count: 17
 ----------------------------------------
