@@ -1,0 +1,49 @@
+Judging by the outputted file, it seems clear that this model is not a very powerful one. On the whole, it is very prone to repetition and will often repeat itself and add new lines. 
+Some notable instances of errors:
+
+Error: outputting \n\n\n etc.
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=0.5, top_k=10): 'Ready, set, go!', he said. "I'm just going to go to the airport and I'll do it."
+
+
+.
+.
+.
+Generation Time: 3.7958 seconds
+Token Count: 17
+----------------------------------------
+Error: Repeating a phrase
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=0.5, top_k=50): 'Ready, set, go!', he said.
+
+
+
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it."
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+etc.
+Generation Time: 3.6677 seconds
+Token Count: 191
+--------------------------------------
+Error: Unknown characters
+Prompt: The sky is blue because
+Generated (len=20, temp=1.0, top_k=10): The sky is blue because it․s the lightest place on earth,․s a place with light.”
+
+
+․․․․․․․․․․․․․
+․․․․․․․․․․․
+․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․�
+Generation Time: 3.2632 seconds
+Token Count: 21
+----------------------------------------
+
+
+The average generation time was 11.4611 seconds, which is relatively good. One problem with my code is that when I set a value for max_length, it seems to be ignored in favour of max_new_tokens. This, at least I believe, cannot be helped as it is more of a problem with the library itself.
+
+The best results were generated under the following conditions:
+  1. 
