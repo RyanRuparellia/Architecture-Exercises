@@ -1,8 +1,8 @@
 Judging by the outputted file, it seems clear that this model is not a very powerful one. On the whole, it is very prone to repetition and will often repeat itself and add new lines. 
 Some notable instances of errors:
 
-Error: outputting \n\n\n etc.
-### Prompt: 'Ready, set, go!', he said
+### Error: outputting \n\n\n etc.
+Prompt: 'Ready, set, go!', he said
 Generated (len=20, temp=0.5, top_k=10): 'Ready, set, go!', he said. "I'm just going to go to the airport and I'll do it."
 
 
@@ -14,8 +14,8 @@ Token Count: 17
 
 ---
 
-Error: Repeating a phrase
-### Prompt: 'Ready, set, go!', he said
+### Error: Repeating a phrase
+Prompt: 'Ready, set, go!', he said
 Generated (len=20, temp=0.5, top_k=50): 'Ready, set, go!', he said.
 
 
@@ -31,8 +31,8 @@ Token Count: 191
 
 ---
 
-Error: Unknown characters
-### Prompt: The sky is blue because
+### Error: Unknown characters
+Prompt: The sky is blue because
 Generated (len=20, temp=1.0, top_k=10): The sky is blue because it․s the lightest place on earth,․s a place with light.”
 
 
@@ -47,8 +47,8 @@ Token Count: 21
 
 ---
 
-Error: profanity
-### Prompt: 'Ready, set, go!', he said
+### Error: profanity
+Prompt: 'Ready, set, go!', he said
 Generated (len=100, temp=1.5, top_k=100): 'Ready, set, go!', he said. "You need not be worried, either. He would just find his man when it gets tough anyway."
 It broke his confidence on August 23. 'Wait, there was a thief. Don't hit, or stay away,' Dr. Boulga added. "Go up. Have at another level. Whatever. Call that boy,'" Dr. Boulga said through a thick line while standing nearby. 'Be prepared!'', Stip, whispered before him. "I look to a lot of kids all day I'll never feel worried the first time someone picks me up or calls home. Let's see if something I'd rather have."
 Dr. Boulga shook her head solemnly. Instead of helping me walk by he nodded his head lightly upon the corner of his mouth and into a chair just above him with him behind his seat. 'Good kid, nice man,' he whispered he wished in his small voice it wasn't the smell, that he wished when the news broke that Dr Rommel was back off for his lesson and called the group a little more careful "Shit,' as one, you know?"
