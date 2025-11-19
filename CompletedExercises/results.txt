@@ -1,0 +1,5467 @@
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=0.5, top_k=10): The pros and cons of the European Union are all about the EU and the EU.
+
+
+
+The EU is an international system and the EU is a global system. It is a global system, but it is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system.
+The EU is a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system.
+The EU is a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a global system. It is not a
+Generation Time: 3.9749 seconds
+Token Count: 225
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=0.5, top_k=10): 'Ready, set, go!', he said. "I'm just going to go to the airport and I'll do it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.7958 seconds
+Token Count: 17
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=0.5, top_k=10): The sky is blue because of the sky. It looks like it's dark. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky. I can't see the sky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.6122 seconds
+Token Count: 88
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=0.5, top_k=10):  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.5956 seconds
+Token Count: 0
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=0.5, top_k=10): ?DfsafaefgGHRfHcGkPQqjYtWZtZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+Generation Time: 3.6911 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=0.5, top_k=50): The pros and cons of the European Union are both clear and clear. A number of countries have been in talks with EU officials over the future of the single market. The EU is not the only country that has been in talks with the EU. The EU's membership and membership of the European Union is a key step towards a strong and lasting European Union.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.6345 seconds
+Token Count: 66
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=0.5, top_k=50): 'Ready, set, go!', he said.
+
+
+
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it."
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"I'm sure you're going to get a little bit of a kick out of it," he said.
+"
+Generation Time: 3.6677 seconds
+Token Count: 191
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=0.5, top_k=50): The sky is blue because the moon is blue, and the moon is blue because the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue, and the moon is blue,
+Generation Time: 3.6677 seconds
+Token Count: 219
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=0.5, top_k=50):   This article is over 2 years old
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.8035 seconds
+Token Count: 7
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=0.5, top_k=50): ?DfsafaefgGHR.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.6898 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=0.5, top_k=100): The pros and cons of the European Union are all about the importance of the EU's ability to create a stable and prosperous Europe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.2355 seconds
+Token Count: 24
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=0.5, top_k=100): 'Ready, set, go!', he said. "I'm going to go to the next level and try to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level."
+
+
+"I'm going to go to the next level and try to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the same as the previous level. I want to make sure that the next level is the
+Generation Time: 3.2186 seconds
+Token Count: 240
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=0.5, top_k=100): The sky is blue because it's the night sky. We see the stars, the stars, the stars, the stars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.3111 seconds
+Token Count: 19
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=0.5, top_k=100):   The Russian government has ordered the release of a former Ukrainian military officer who was allegedly tortured by the Russian regime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.6432 seconds
+Token Count: 21
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=0.5, top_k=100): ?DfsafaefgGHRYQQQZpGQQXQB8GwGWQGQAQAQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+Generation Time: 3.8420 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.0, top_k=10): The pros and cons of the European Union are not necessarily mutually exclusive. We are not the only EU Member States in the European Union with respect to free movement of goods, but the EU itself is in agreement with it. We are not the only member state in the European Union with respect to free movement of goods, but the EU itself is in agreement with it.
+
+
+
+The EU does not always have a strong relationship with the EU as a whole. The EU is not a member state in the European Union. The EU has a strong relationship with other nations. However, when it comes to free movement, we are not the only member state in the European Union with respect to free movement of goods.
+In the past, the European Union had a strong relationship with the EU, but we have been forced by the EU in the past to become more open to change or to become less open to change as a whole. In the past, we were not so open to change, we were forced by the EU in the past to become more open to change, we were forced by the EU in the past to become more open to change.
+The EU is one of the countries in Europe, and one of the most powerful countries in the world. It is also one of the most powerful countries in the world
+Generation Time: 3.5618 seconds
+Token Count: 239
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.0, top_k=10): 'Ready, set, go!', he said.
+
+"I've seen this before."
+He then added: "I don't think we can make a case that I'm not in any way the best.
+"We're still trying to do things as best we can, but what is your best chance of winning?"
+"It's just about being the best of the team, I mean, that's what it's going to be. It's not just the right one. It's also the best chance for the whole club. We're not saying we don't win and it's just about the right one. That's what it's all about."
+"It's about being the best of the team. It's not just the right one. It's still a great opportunity for everyone. It's just the right one.
+"It's still a great chance for everyone in the club. We just don't know what it's going to be until it's done. It's just going to be one of the things that I'm not in any way the best.
+"It's just about being the best of the team. It's just about being the best of the team. It's just about being the best of the team.
+"It's just about being the
+Generation Time: 3.2342 seconds
+Token Count: 193
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.0, top_k=10): The sky is blue because it․s the lightest place on earth,․s a place with light.”
+
+
+․․․․․․․․․․․․․
+․․․․․․․․․․․
+․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․․․․
+․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․�
+Generation Time: 3.2632 seconds
+Token Count: 21
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.0, top_k=10):   This is the second part of the book, I want to get into the topic of the game (I don't like that, because I am not a big fan of this book, and I am still a fan of it, so I will continue to read it if I have any issues).
+This was my first time playing a game (I don't like that because I am not a big fan of this book, and I am still a fan of it, so I will continue to read it if I have any issues).
+As a result I am very proud of all of this and have been able to get the game into my hands and play it on top of my head.
+I am really glad that my new character, Rana (Sandra) is not one of the main characters in the game (she is a good character, so she can be played as a character), but she is not quite that good and I am sure that she would have a great game to play, so I am going to continue to play her.
+It is a very good game. It is a very good game, and it is a very good game too. I am going to keep playing as a female and I am going to be happy to go out and
+Generation Time: 3.6361 seconds
+Token Count: 226
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.0, top_k=10): ?DfsafaefgGHRW.
+In a letter addressed to a local resident, he said he was shocked at what he saw when the police arrived and the woman who saw the woman walking down the street was not even armed.
+"I was shocked by the officer's reaction. She was carrying a knife and I was shocked," he said. "There was nothing wrong with a policeman. The police were not looking for a suspect and they were trying to get the woman to get into the car before she was stopped."
+"I was surprised by the officer's reaction. She was carrying a knife and I was shocked. The police were not looking for a suspect and they were trying to get the woman to get into the car before she was stopped," he added.
+"I was surprised by the officer's reaction."
+"I am shocked by the officer's reaction," he said. "I am shocked by the officer's reaction."
+He added that a man has to be taken to hospital for questioning after he was detained. He was detained for the following days, but the woman's lawyer said there were no charges against him.
+The woman was taken to a hospital with a minor injury. She has not yet been charged.
+Generation Time: 3.6867 seconds
+Token Count: 205
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.0, top_k=50): The pros and cons of the European Union are different from a single-think society of two parties for which there was only one party, which the left has lost in the first place. The European Union should unite all political parties which could become in opposition with the same kind of support. No nation should have a single-state system for its citizens. European and European governments should establish a system of parliamentary and electoral bodies to support each party. All parties should strive to meet the demands of the people.
+
+
+This article was originally published with permission from the European Council. To view the article go to the original article and go to the main page at the top.
+Generation Time: 1.6120 seconds
+Token Count: 119
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.0, top_k=50): 'Ready, set, go!', he said.
+Generation Time: 0.0299 seconds
+Token Count: 5
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.0, top_k=50): The sky is blue because it has very high density. Then you have no chance of creating the same sky in half of the time.
+
+We have an incredible, beautiful world with an amazing landscape and amazing wildlife. It has been here for centuries. And we are here to take it one day to build it. But this is a reality.
+You can imagine an entire landscape of grass on the street with little grass - it is beautiful. And the rainwater just comes to you with the water and when your head gets a little dry you get more moisture to your eyes.
+If a man wants to come home you can't stop! We know you are one of these.
+We have no doubt the beauty of the world. You may have a chance to visit us now and share it with many others!
+You see the beauty and beauty of the landscape, the beauty of the land, and also also how we live in this world!
+It is important for you not to forget that, like us, you cannot go away. You have the power to create something like this in your world!
+The only way that we can have the power to create this world with us is to join together. Every day we come together and get together and show all our love!
+We
+Generation Time: 3.3364 seconds
+Token Count: 228
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.0, top_k=50):   It‭†*:
+
+
+A girl I used to associate with my friends was a little boy that he was a little girl, so this kind of thing is kind of weird. She‭†*:
+"I'm usually called by my friends and my mother that sometimes I‭†*:
+"When we come to a meeting, I think about my mother because she‭†*:
+"So I think she used to be so bad when her father took me out on the weekend.‭†*:
+"Oh, look you know what was done to this girl.‭†*:
+"Now, what?‭†*:
+"I want to show you, you‭†*:
+"What‭†*:
+"And when we‭†*:
+"And that ‭†*:
+"So, you‭†*:
+"I want you to show you that I know that she could handle things as well?"
+The girl called me, and I thought we were all very different from the other ones. The girl liked a lot of people, and I wanted to show you that we wanted some sort of love for her.
+Generation Time: 3.8571 seconds
+Token Count: 154
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.0, top_k=50): ?DfsafaefgGHRXI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 3.7485 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.0, top_k=100): The pros and cons of the European Union are clear. EU citizens can enjoy freedom of movement based in their states and cannot be discriminated against by the other member states. The EU is proposing to roll out a "No" movement, based on an EU-member commitment to freedom of movement and a "No" vote.
+
+
+This article originally appeared on Dutch Daily Daily Post.
+
+
+
+Transcript:
+
+
+There isn't any EU-member agreement to set Europe apart from the EU. The United States does not. There is cooperation between the European Commission, the EU of which the member states are charged with each other. The EU also acts as an independent state - that is the primary pillar of the agreement. A national decision does not have to be made over time. You can't stop it.
+Transcript:
+When you said you was elected by the European Commission in 1993, your position was as both an international and a global trade partner - that is the general assumption of the European Union.
+And one of those differences, it almost always falls down to the EU. With the rest of the OECD, the EU is basically the third-largest market in the world, with no economic or other outside influence.
+In some countries, you make alliances, and many other outside activities
+Generation Time: 3.6552 seconds
+Token Count: 214
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.0, top_k=100): 'Ready, set, go!', he said. “It's tough. The door is open now.“
+“Well why isn't that important?“
+—You mean, of course. What about the way you feel about the way you feel about your team?“
+—I don't know. Maybe that'll change.“
+—You know, I know. It's really hard. But, I've got to do it.“
+“I wonder if it's because of you, man. The idea of being the victim is just surreal to me. I think I know nothing about it. I know even though I'm a virgin, and to me it's like you're like that.
+“I don't know, you know?“
+“Don't be frightened of it…“
+“Oh, but I can tell you, sometimes you really don't know the way you feel about yourself. If you were human, maybe you wouldn't like it?
+“No. Because I guess you know that. But now because of you, I've seen the damage they have doing here every single day. Please…“
+—A lot of you are here. I'm trying
+Generation Time: 3.5928 seconds
+Token Count: 163
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.0, top_k=100): The sky is blue because snow passes.
+
+So if you want to see how this happened in Atlanta, consider getting a map of the Mississippi Delta and try looking at the map we show on the state road! The map below shows the locations of the area of the metro Atlanta is made up of:
+For the Atlanta area where these areas are located
+- The metro Nashville area where these areas are located
+- There are about 140,000 people who live in these areas of Atlanta - about 6% of them live in these areas of the suburbs
+- Of the Atlanta areas that are most likely to be hit by storms. The majority of those residents living in these areas never move out of the area by storm, and instead rely on their vehicles to travel - as I recommend this map. If you want to see more information or to create a map of what you see, click here.
+As a side note, we show the name of some of the locations from Atlanta. This map contains info from the various states that are listed in the map. These lists are going to use specific geography information like a number one state or territory and that is a city or town here. If you look at the map above, a city or town has the number four or five places in a metro Atlanta
+Generation Time: 3.6065 seconds
+Token Count: 237
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.0, top_k=100):   I would have preferred to go on to another website not to hear about the current campaign of Robert Mica and also to talk about the importance of an open letter in the ongoing debate. But now I've gone to learn that it's my opportunity to speak up for its people and their beliefs and have heard that things are wrong with the Conservative Party but not in relation to the fundamental human rights rights of people of colour. For example, because of race, the law also states that women who are given preferential legal status to engage in education are eligible, however, because of their race and ethnicity.
+
+
+The campaign really won't begin with the campaign, but the real deal is that we should all understand that that this is not our case. As a woman, every person on earth can't be believed to be worth spending their time with. We just do not appreciate that a racist (or anti-white) person is being judged to be worth being judged.
+It is not only wrong, particularly today, for people who value diversity. It is wrong for those of us who have found something wrong on the internet. I think that at Westminster, we could also condemn an anti-racist racist for putting so much money on a web site dedicated to race, religion,
+Generation Time: 3.5744 seconds
+Token Count: 222
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.0, top_k=100): ?DfsafaefgGHRNQBVqFzMRxUDgQzMTfGQSgIGl6SS3ZLJYZR3gRJF6LyM7ZxNzZzO9gPjlbQWNj4GZXxnZM9vMnL5kH1cYIgB0cJI4YwJiIgJbmjbQ1dJtY5Q6iZXJyIgZJbZcQ1Iy2IGgZJ5lIcY8Y8Y4wJiIgB0cJI4YwJiIgJbmjbQ1dJtY5Q6iZXJyIgZJbZcQ1Iy2IGgZJ5lIcY8Y4wJiIgJbmjbQ1dJtY5Q6iZXJyIgZJbZcQ1Iy2IGgZJ5lIcY8Y4wJiIgJbmjbQ1dJtY5Q6i
+Generation Time: 3.5996 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.5, top_k=10): The pros and cons of the European Union are the same, though there are some similarities between Europe and the European Union. Europe's EU membership in 2004 was only a temporary step toward a full integration and a transition that could take place without the EU, but that would be the biggest challenge that can be overcome for a long time with a new and stable Europe, especially when it comes to how Europe operates. Europe needs to be a place where a lot of people can get away and not be seen as the world's biggest power but as the world's largest economy. And that is the key question to ask about today's new leaders on how Europe functions and is it going to play a crucial part? In the end, the question is what will become the key factor in a new world, whether the Europeans are better suited to live their lives in this new world?
+
+In this series we will discuss the importance of European cooperation on the issues surrounding European integration, the impact and benefits of the single market, and the role it will play. In our next post we discuss the impact EU membership is and the importance of European integration on the issues surrounding European integration. Our second post will address the role it will play in creating a more stable world of Europe in the future. We will discuss the significance and significance of our European
+Generation Time: 10.2461 seconds
+Token Count: 244
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.5, top_k=10): 'Ready, set, go!', he said. 'You should do it, man.'
+He went on to explain he had a problem with the system, which allowed it to run on the Raspberry Pi.
+'If you're going to use a Raspberry Pi you'd probably want to have your Pi turned on on on and off, and it wouldn't allow you to run it, but it didn't do it,' said the man. "It was pretty easy to use in an environment where there's no real power.
+
+'You should have the Pi turn off on or off.'
+He was also surprised the Pi would not switch on when the Raspberry Pi's USB port was plugged into the system's power socket.
+But, after the switch turned on the computer's Raspberry Pi's power socket, the man's phone turned up and plugged in.
+The Raspberry Pi had a battery that was only a couple of hours old.
+Generation Time: 18.2730 seconds
+Token Count: 149
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.5, top_k=10): The sky is blue because it's cloudy. But I don't want to go in here to see it.
+It is not an issue. It was a matter of a time ago.
+It is an issue and I don't want to go in here to see it."
+And the sun is shining at the bottom of the mountains. It is an issue. The sun is dark.
+Generation Time: 6.4152 seconds
+Token Count: 65
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.5, top_k=10):  The first time a person in the US ever had a chance to meet one of the best people you've ever met and they've been amazing. You can't just be the one who says, 'I'm the person you really like, this is just a joke,' that's exactly what I said to her.
+
+
+
+
+And she didn't disappoint because she was so passionate about getting her son to meet him in San Francisco when she was 11, a few days earlier in the US.
+It was so much more than anything she'd ever known before.
+She had never met anyone else on Earth before when they were just 10 years old when the US Army started using their military technology.
+'I remember being the first to meet someone, a woman of color, from all the world, and then, you know, I was the only person who actually met her," she told CNN's Jake Tapper.
+'I had the opportunity to meet her, I was the only one, and it was very special. It was very special.'
+And she knew her son was a huge part of the US military.
+'He really loved us, he really loves our family, he loves our country. He's so incredibly talented that he even made
+Generation Time: 22.5865 seconds
+Token Count: 207
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.5, top_k=10): ?DfsafaefgGHRQFjEZJZQFkGJFkKGZQFkZHgLgJfZgZGGQfJfZgRjHgNzRjBzYQJgZgGZGQfRjhJjhKJjBkGQfRjhLgGQtJjGgNzGnjHkLgLkGQdHGgMQfZGwLnjGwO9YjZhLgLsO8O9YjZhZhGzGQzGQzGZgGQdHgMQfZgJjhKjbZgQdHGgZgRjHgNzGzHgNgZGqfRjhJhKjbZgRjHcJhGgNzRjFkGZgRjhKjBkGQfRjhJgNzGzGwGjNzGgZgQfRjhiJhGkGzGQzH
+Generation Time: 22.2760 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.5, top_k=50): The pros and cons of the European Union are to admit EU integration under EU policy, said an official to the Financial Times in Washington D.C. this morning.
+
+
+
+The Obama administration‏said last month that Europe is not currently integrating into an open free market on their own.
+European citizens and institutions were not granted access to its new status under a law approved by the European Commission last month and will not even need that, and will eventually go into law.‌
+However, the Obama administration‪said last month, in an executive summary sent to the White House and the U.S., that integration would lead to more than 200,000 undocumented EU nationals entering the U.S., in return for greater benefits on U.S. taxpayer funds, which help ensure free access for Europeans and would protect them regardless of the U.S. economy.
+Generation Time: 14.8757 seconds
+Token Count: 138
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.5, top_k=50): 'Ready, set, go!', he said. "The day's worth of money is the day's worth, so when they get a free copy this book takes off, I want this kind of cover, for everyone here. I'm only going to leave that at my job, not if I am just trying to tell my story."
+
+
+
+When Professor Lenny and Mr McGinty put her into a classroom when he was studying, Professor Senna spoke. He was standing under a sheet of cotton around, eyes watering in anticipation of someone trying to tell you what to tell me. His eyes were watering at a slow pace at his ears, his expression at being able to be silent. He would say a new thing. And to say she had spoken something it was his name, Mr Lenny realised. She didn't realise there was only a man in class who was doing something that couldn't happen at the beginning or have done, but he wouldn't be afraid of being said with this old friend of mine as the whole class was in front of someone. What really surprised him most was how clearly they were looking, when all of them were still around to tell the history of what happened in your memory. When they finished they would be very upset, he was embarrassed very hard but they would get
+Generation Time: 23.9728 seconds
+Token Count: 224
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.5, top_k=50): The sky is blue because it doesn't show the stars! For an extra layer in the sky or to be seen over the moon, try moving them further back (like a star if you don't know if there will be more light as visible at the end on this blog), then the sky would be blue. You won't notice the change in the top of the sun to this color.
+
+The first part does seem to look familiar from earlier blog entries, the one titled and about how to get rid of stars and not be distracted. It then is made to look like this. The first video below is actually shown, you can still see an object with the bright blue eyes if you do now.
+
+Before adding the effect, there is some small matter, where some rays go through: They are very bright at some point and when we see the light through some distance, we are all looking at it in that direction, we are basically making ourselves look like this.
+The most interesting thing here is that the shadows above, while somewhat away, aren't really seen either. They are being observed about 20km down, whereas at about 18,200km to this point, the darkness would be smaller at 20%. These two objects aren't entirely clear, you should think in detail that.
+Generation Time: 25.0917 seconds
+Token Count: 224
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.5, top_k=50):  Gatkins, is the best known among American football fans (including those he used only to beat Washington Redskins on Sunday night), and most notably, Steve Wyche's former club, Penn State. Not only of all of Big Ten football success, but it was his way of seeing the field. As a guy who had been playing this time around on three occasions against Oklahoma (and against his beloved St. Lawrence), we knew, as a college football fan, that he probably played football for Penn State. He loved what his friends (including a handful of former Penn State seniors on both sides) expected him to see every week—in addition to the potential to take over the football team for the past several weeks (even at No. 39). This particular experience took a turn as Big House‍s football team came around—which made that team great again this time by getting rid of Coach Rick Harbaugh, whom Tom Snyder had previously criticized all year. There's only this very small amount of familiarity to both football and its coaches about the team during that whole recruiting spree but I always loved how much this unique approach could help Penn State. Even then: He had the perfect job to handle the team, and he and their staff seemed especially eager to work together for the day
+Generation Time: 23.7495 seconds
+Token Count: 220
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.5, top_k=50): ?DfsafaefgGHRZB2N0S
+
+(citation omitted):
+
+
+Advertisements
+Generation Time: 1.6771 seconds
+Token Count: 4
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=20, temp=1.5, top_k=100): The pros and cons of the European Union are essentially same.
+Generation Time: 0.3893 seconds
+Token Count: 11
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=20, temp=1.5, top_k=100): 'Ready, set, go!', he said looking into several volumes.
+Generation Time: 0.5581 seconds
+Token Count: 9
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=20, temp=1.5, top_k=100): The sky is blue because of the cloud, of course because of the bright sun. Because of the brightness and dark, you‪ll get stars. The sky sky is a natural place with rich colorations. White planets often orbit these solar objects as moons which could bring large numbers up those solar objects. There are dark and cold, or too much. All of that is shown out below this website‪ly. Some are clear, others a bright and wet world, to create a bright sky. How easy can you see something different with many different things, especially after you think like "hello?". If true of one thing, like I said here with my sister and family, maybe a bright star that got us talking about light colorations of the solar system to something the Sun probably does? Here is my favorite chart of Milky Way brightness and how great you can see any stars along the way in some pictures. As an example, the great dark areas on my chart really don‧t take me too far to keep track of the brightness. The same point are gone about almost every time. I was hoping I stopped looking there while my uncle wanted me to put pressure on "cassalt"? I found there still being large circles where dark clouds from distant star that got me a big
+Generation Time: 23.9889 seconds
+Token Count: 224
+--------------------------------------------------
+
+Prompt:  
+Generated (len=20, temp=1.5, top_k=100):  You can enjoy, interact onscreen screens, work better together and play better under common knowledge and resources [1]. However, several of the technologies (Faster, faster, smarter): a smart game platform that can be played more reliably to generate income while on display, and a game that integrates real estate information that supports various inputs rather than a binary world that relies on many inputs at home too. Games like Microsoft has an emerging world and many players seem well aware of these qualities too. So as an example we used smart grid for an idea of how it should do in short practice: the real world AI is simply not just the actual games it creates as those made possible via direct physical entities without them of themselves even having to resort to physical motion. Having these processes on one end of it would be more fun and efficient.
+Of course, as an example we use these solutions in simple AI AI control in a simplified sense, where to program. For instance in the game you can go with a Smart Machine and switch from AI to Computer 3D. If to take the screen away it is easy to read it for you to turn to smart and adjust the view for a view using digital art form. This really creates a situation to offer up specific, novel uses no player
+Generation Time: 25.4713 seconds
+Token Count: 231
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=20, temp=1.5, top_k=100): ?DfsafaefgGHRDFPG_ASTRAM_KWEM.
+D. EhrfehnB
+C. Fechsänderläinen
+Hülerös
+Ehrenheuernnier
+Gårevörtig vor pterne gesjende Pterheufadie särsårdningsningshönchet Kossesst av likar gesverligade dölsberg eller sig sige ossl. Dersa ocks ølvsge nord lassigke vännest som märgast nord osskraftom en frantra pommet ocks selt er Åle en vor þndens, dans gefäldes andkellen.
+Gjärtiger ott algen uft. Aoschte meckrántf, ílsisteren rindem. Gügen att den hin regen fohrnakte nägstasge frahre. Ehrmann märgast nrittöllgen. Gött søjnologte i hårbá
+Generation Time: 25.3586 seconds
+Token Count: 68
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=0.5, top_k=10): The pros and cons of the European Union are the same thing. The EU is a very good place to start.
+Generation Time: 1.4965 seconds
+Token Count: 21
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=0.5, top_k=10): 'Ready, set, go!', he said.
+
+
+"You're doing this, we're ready, we're ready. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're done. You're
+Generation Time: 25.5186 seconds
+Token Count: 131
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=0.5, top_k=10): The sky is blue because we're not going to see the sun again,› said the captain of the ship.
+
+
+
+"It's a very dangerous situation. It's not going to be easy for us to get out of the water. But we're going to be able to get out of the water and get out of the water. We've got to get out of the water and get out of the water. We're going to get out of the water and get out of the water. We're going to get out of the water and get out of the water," said the captain.
+The captain said the captain's crew will be able to get out of the water.
+"We're going to be able to get out of the water and get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to get out of the water. We're going to be able to
+Generation Time: 25.4079 seconds
+Token Count: 216
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=0.5, top_k=10):   The most recent issue of the San Francisco Chronicle is available here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 25.2709 seconds
+Token Count: 12
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=0.5, top_k=10): ?DfsafaefgGHRG-QJ-XQ-QJ-XQ-QJ-XQ-QJ-XQ-QJ-XQ-QJ-XQ-QJ-XQ-QJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-XQJ-X
+Generation Time: 25.0467 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=0.5, top_k=50): The pros and cons of the European Union are different. The EU is a single nation, and neither is the European Union. While the EU is a single nation, the EU is a single nation. While the EU is a single nation, the EU is a single nation. The EU is a single nation, and neither is the European Union. While the EU is a single nation, the EU is a single nation. The EU is a single nation. The EU is a single nation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 25.2001 seconds
+Token Count: 85
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=0.5, top_k=50): 'Ready, set, go!', he said.
+Generation Time: 0.1999 seconds
+Token Count: 5
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=0.5, top_k=50): The sky is blue because the people are not there to see them!”
+
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because the people are not there to see them!”
+The sky is blue because
+Generation Time: 14.7166 seconds
+Token Count: 200
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=0.5, top_k=50):  The first time you see the image of a child in the background, you can see a child in the foreground, and you can see a child in the background.
+
+
+
+
+
+
+The first time you see the image of a child in the background, you can see a child in the background.
+
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+The first time you see the image of a child in the background, you can see a child in the background.
+Generation Time: 4.7575 seconds
+Token Count: 219
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=0.5, top_k=50): ?DfsafaefgGHRKQQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 4.2983 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=0.5, top_k=100): The pros and cons of the European Union are not the same. The EU is a very complex, complex, complex and complex, and this is why we have to be vigilant in our efforts to ensure that this is not the case.
+
+
+
+The EU is not a very complex, complex and complex, and this is why we have to be vigilant in our efforts to ensure that this is not the case. The EU is a very complex, complex, complex and complex, and this is why we have to be vigilant in our efforts to ensure that this is not the case.
+The EU is not a very complex, complex and complex, and this is why we have to be vigilant in our efforts to ensure that this is not the case.
+There is no single EU country in Europe that has the same level of complexity and complexity as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the same as the rest of the EU. It is not the
+Generation Time: 15.1831 seconds
+Token Count: 236
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=0.5, top_k=100): 'Ready, set, go!', he said, and quickly got up to his feet.
+
+
+
+He looked back at the world and said, 'I know you have some problems, but I can't help but think about the challenges of working hard. And you can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself.
+'And now you have a job that's not all you want to do. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself.
+'And now you have a job that's not all you want to do. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself. You can't do that for yourself.
+
+Generation Time: 25.0000 seconds
+Token Count: 197
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=0.5, top_k=100): The sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the sky is blue because the
+Generation Time: 24.5358 seconds
+Token Count: 261
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=0.5, top_k=100):   The government has failed to protect the rights of children and the elderly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 24.8711 seconds
+Token Count: 13
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=0.5, top_k=100): ?DfsafaefgGHRWG0F5J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J7J
+Generation Time: 24.8935 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.0, top_k=10): The pros and cons of the European Union are in agreement with the EU's decision to impose a new anti-terrorism law in the near future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 24.1829 seconds
+Token Count: 25
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.0, top_k=10): 'Ready, set, go!', he said. 'We're going to be back in town next week. If we don't get there in time for the rest of the season, we'll go back in a couple of weeks to work out the weather."
+Generation Time: 4.2678 seconds
+Token Count: 40
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.0, top_k=10): The sky is blue because it is so hot. And it is not as warm as it is. It is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky.
+
+The sky is blue because it is so hot. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And the sky is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky.
+And it is as dark as the night sky. And it is as dark as the night sky. And it is as dark as the night sky. And
+Generation Time: 25.8060 seconds
+Token Count: 232
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.0, top_k=10):   I was in a room with the guys at the hotel when they were making some really weird decisions. We just had a conversation and the guys in the room were talking in the middle of the room with a lot of people talking, and we decided that if we had one guy on the side of the room, we might want to take the next few minutes to make a decision about whether to do something that we wanted to do and how the situation was going to change. I thought we should be able to just be there and have some fun.
+
+
+
+It was just a really fun conversation. I was thinking that maybe we'd just be on our way to the next day or two, but then I realized that I had a pretty big problem. There were just no other people in the room. I just had the room with my friends and family that was not working and it was really difficult for us to get back. The way I had the room with the guys and my family, we were just so busy. I felt like I was really close, and we were just so much friends. It was so easy for us and it was hard to get a better relationship than I would have felt if I were in the room with the guys. It really wasn't
+Generation Time: 24.1521 seconds
+Token Count: 235
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.0, top_k=10): ?DfsafaefgGHRF-1
+
+
+
+
+
+The first thing we need to do is take care of the first two points in order to get the first and second points, which means that we will have to have a very good understanding of what happens when the first point of the second point is lost.
+If you are a beginner, it is a good idea to take a look at a few different approaches:
+One way we will start to understand the problem is that the first point is lost. The second is not lost; the first one is lost; the second one is lost.
+Two points are lost.
+The first one is not lost and the second one is lost.
+The third one is lost.
+The last one is not lost and the second one is not lost.
+The second one is not lost and the third one is not lost.
+The last one is not lost and the third one is not lost.
+The last one is not lost.
+The first one is not lost.
+If you have the second point of the second point you will have to take care of a few different approaches:
+The first one is not lost; the second one is not lost; the second one is not lost; the second one is not
+Generation Time: 24.5220 seconds
+Token Count: 216
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.0, top_k=50): The pros and cons of the European Union are not even known at the time of the vote [in which the UK held the European Union's two-thirds in the UK), but it certainly shows how far these days, under new British sovereignty, are now going, is even more important.
+
+
+As part of a wider push towards a more cohesive European Union, there will be a wider set of issues. Firstly, the EU's membership of the EU means it won't be an open society for the EU member states. Secondly, because the UK isn't the only member of the EU, there will still be numerous areas where it can't have a very meaningful functioning member state, for example, the EU Social Insurance Plan, which is part of the European Communities Act.
+It's probably no good news for those who want to see the UK in the way it's currently today. The UK has already lost an outlay of the European Union by a stunning 56% of the vote. The next biggest obstacle will come to an early termination on the European Union's membership, if it loses all its current powers that it once had to be.
+The biggest issue to me is the fact that when it comes to negotiating a free trade agreement with the EU, the most obvious thing for sure is to get both the
+Generation Time: 24.0581 seconds
+Token Count: 227
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.0, top_k=50): 'Ready, set, go!', he said enthusiastically, his head set on fire and he put on his clothes like he had, while wearing what was then a pink jacket. He said, "This was for the past four years. I'm not quite sure what you want you to see to see for yourself. I'll wear it on the show."
+
+
+He took the rest of the crew. And then the one that worked with him, James and I, I, the other guy, went out into the room to get the idea of going in there with him. They set out to bring things up from the first meeting. This wasn't a secret one. James told me, "It's the idea of being in our office."
+It wasn't one of her ideas, it was something the two girls had heard. It was what James was going through through right afterward and the other boys were going through. He wasn't saying it was real to come in with a big blue suit. I'm sure they were just a dream for him. Just something to make sure they'd come in first.
+James laughed deeply. He had no idea what he was going through. He'd kept watching them all the night and he couldn't seem to stop watching his mother and his father in the audience.
+Generation Time: 26.2096 seconds
+Token Count: 218
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.0, top_k=50): The sky is blue because a person with a red neck may think of it as a green or brown heart with a reddish stripe. This is very similar to what the world has in common with many other animal parts of the world including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's very important that we make sure that the colors of the sky are not changed so that the skies clearly reflect the atmosphere. As such, if people were to create an entire world in the image above, it would be difficult to accurately draw such a clear sky as such.
+There are also problems with seeing such a wide section of earth. Many people are unable to distinguish this from the sky due to the fact that the sky has a long, steep path that is covered with white matter. However, the actual size of this Earth is still small compared to its Earth size.
+The sky has quite a variety of colours that are visible along with the rest of the earth as well as the moon, which is also difficult to discern. For example, the sky has a wide, steep path that will be covered with white matter.
+Note: We do not yet know why the sky has a long, steep path for this type of earth as there's no way to see it
+Generation Time: 25.7579 seconds
+Token Count: 222
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.0, top_k=50):   The following is a statement from an old friend, this is the story of someone he trusted, who died trying to save his brother.
+
+
+I was born here three and a half years ago. I was from a small town of just one town with only one house and two apartments.
+I was born after one of my brothers was killed after a fire at the town a few years ago. I had also been raised by my mother, who also taught me to watch. This time around I discovered that my older brother had been killed by a man in a different town.
+A friend asked if he was worried he was going to go to prison if he took his own life. He was never seen again.
+Some people thought it was a prank.
+That is, all I heard was, "Come on son my brother's." And it was as if my mother knew her.
+My parents didn't know when I was born and they were not sure what they called me.
+But my parents didn't know. For them I went out for a good time. I ate fresh vegetables, had a normal life, even did my homework all day. So my mom only found out by calling him and asking if I would be a bit crazy about them
+Generation Time: 328.5568 seconds
+Token Count: 221
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.0, top_k=50): ?DfsafaefgGHRW6D1V8gKXZgDxRk1XDwWpBw2xH2XOyBZzC5UwBc8N8S7yZMgY0Y4bJhj7ZNtLj6W9S7kc5gRY6RcZLj6ZgY6M1cCgY2cY2cAwC0cWg8N9S7yZTmMbTlkk3wJfG4JbG5I1zYM4bJhj7ZUwBc8N4ZMgY0Y4bJhj7ZUwBc8N8S7yZMgY0Y4bJhj7ZUwBc8N4ZMgY0Y4bJhj7ZUwBc8N4ZMgY0Y4bJhj7ZUwBc8N4ZMgY0Y4bJhj7ZUwBc8N4ZMgY0Y4
+Generation Time: 14.3501 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.0, top_k=100): The pros and cons of the European Union are very much in the news
+
+
+Just how much the EU will put on "more regulation"
+What difference do the states and EU countries make over the next 20 years between EU regions?
+Today we can finally learn about all these issues.
+EU states have been pushing for more regulation and regulations for decades, but this will not change what they can take away from the EU. Many of the biggest markets – European states such as Norway, Portugal, Spain and Portugal – are simply too big to hold their breath.
+This is because the EU's 'procompetitive policy environment' is completely unacceptable for the good of Europe. Instead, a European Commission chairman tells the EU it is unacceptable for a significant number of EU states to be a part of the EU if they do not uphold the core principles of the free market. Of course this doesn't change the way they live, but this must mean that a fair amount of people take their say and will be questioned. Even though the EU and other EU countries are not particularly good at maintaining their markets, what is the big difference between these countries and other parts of the EU?
+In spite of all this, the great international economy of the EU is very much in the hands of the OECD.
+Some of these countries
+Generation Time: 4.4482 seconds
+Token Count: 233
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.0, top_k=100): 'Ready, set, go!', he said, and she thought, "Fell, what the crap. Why don't I get my way, I mean?"
+Generation Time: 0.4054 seconds
+Token Count: 20
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.0, top_k=100): The sky is blue because we see a huge number of people around the solar system. An explosion also happens when the Sun falls.
+
+
+
+This solar system is about to end the way people are now using their homes to work.
+Source: Wojiała Sobotka.
+Sun total solar power on our planet is about $614bn – on average.
+But, in practice, it's a total of about 2% fewer solar panels than expected across the whole planet.
+The top two panels have received an astounding 99% of our panels.
+The cost of converting sunlight into electricity is well over $300bn.
+But one of the biggest problems that is that all this is actually achieved in a solar system, which can't do anything for nearly 100 hours.
+The average sun is about $350bn.
+But, thanks to global warming, most of them are heating, cooling and cooling the sun as we speak. Today, even today, only 72% of panels are visible.
+That's a staggering disparity – it's much smaller than expected – but that's still enough power to enable a single solar system to power a large school and a commercial school to get to a commercial university.
+Sun-attached solar panels are big business –
+Generation Time: 4.1937 seconds
+Token Count: 201
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.0, top_k=100):   I hope I can start building an actual game where you can really make it happen and I hope you like it. And for anyone that thinks that I can have my own gaming platform, I hope you do too. If you find me that I can afford the same things that I have personally made them over the last 50 years, please stop wasting my time and start being part of it. In the end, as long as this is ok, I'm happy in my arms and proud of what ever we have accomplished with this game and we hope that everyone will enjoy it too.
+Generation Time: 1.8708 seconds
+Token Count: 107
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.0, top_k=100): ?DfsafaefgGHRfKg6rRw4tZU5ZNrZn0ZfZzKlZWHtbVoCJ1N6rwM5U0mA9oQvI5yM5UgM5U5URhM4ZGm2oNgM5U5FZcNWmN0RxWzz0mN0YbPzUWmM5U5U5zM5U5I5U6zM5U6a4pWsbiCj4U4u7JgUgU4yM5U5dA4gM5U6u8G0b0mA9oQvI5yM5U5M5U6a4pWsbiFlU2NgM5U5kF0b1a4pWsbiFlU2NgM5U6sbiFlU2NgM5U6sbiFlU2NgM5U6sbiFlU2NgM5U6sbiFlU2NgM5U
+Generation Time: 4.1289 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.5, top_k=10): The pros and cons of the European Union are all in their own unique and mutually exclusive position as a group of European leaders."
+Generation Time: 0.2828 seconds
+Token Count: 24
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.5, top_k=10): 'Ready, set, go!', he said as they walked through the hall as he sat in a chair next to her, with his face on the back. He was in shock that he had to be taken away and be taken back to hospital to make sure the next day would be the worst of it.
+'You're going to have to do this. I have to go back to school. I have to have this room. It's the most important thing for my future, it's my life.'
+
+In the meantime, it took just two weeks to finish, as the rest of the students took their place through the door into one other room.
+Generation Time: 2.0165 seconds
+Token Count: 112
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.5, top_k=10): The sky is blue because the sky is a bright spot. So the sky will be dark in a bright light. If the light is white, that's where you'll end up when all the lights are gone. So the sky's light will be white and there isn't much else to look for. And then we're looking for the brightest spots in the sky. The light in this sky is the dark blue. But that's not where you get the dark blues. It's very faint with a blue sky that's very dark. The sky just isn't very bright.
+The blue sky looks pretty blue. The sky is blue, and the sky has a lot of blues and bright colors. There are some very small differences in the blue sky and there's a lot of light and it just hasn't looked bright. That means if you're going to see some sort of blue sky in one of these places, you'll probably see lots of blue skies, so it really isn't like that. You can also see a lot of red sky and some blue skies in another area, so that's probably going to look very dark.
+The blues have a bit of blues, but the light is just not there. It has a little blue sky that's really blue, and it can get
+Generation Time: 4.1271 seconds
+Token Count: 221
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.5, top_k=10):   and we․.
+I think it's just one thing to say "you can make your own stuff with the right tools for it, and if you want to get something for you, just make sure that it's all available at the right level". But it doesn't stop there... you can't just make your own products without knowing the tools you have and knowing that it will be in your hands for a while. And if you want something for you, go for the right stuff.
+Generation Time: 1.7081 seconds
+Token Count: 84
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.5, top_k=10): ?DfsafaefgGHRfGHjGmYtZjLpQnqZtQQZtRnjNzLqZvZyQYqBjEkZzQzMvBqZmvBqzMvBqzMvBqZmbZMvBqZmbMvBqRzmvA9BjEkZyJmMvBqzMvBqZyRjNjNzNzLqZyJmvBpQZmVbZmVbBqZmBqZyRjBvbZmvYQzMvBqZmVbQzMvBqZmVbZmvBqZmvBqZmvBQzMvBqZmvBqzMvBbQzMvBqZmvBqZmaRjNzJmVbQzMvBqZmvBqZnjNzLqZmvBqZmvBqZmvBqZmvBqzM
+Generation Time: 4.4984 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.5, top_k=50): The pros and cons of the European Union are both on the rise for the first time, but a quick glance at these points can really make a difference: For each country, on a regular basis, you want the European Union to maintain EU membership and membership. There are other European parties operating in an even more global dynamic. Germany.
+
+For all our common failings, there are certainly a few ways for us the Europeans can improve. While that's often true of political and economic divisions, if you look back, political and economic differences still do vary greatly. Most importantly of all, there are certain regions and organizations which allow for real, effective integration between the two and promote fair market outcomes for both parties.
+Some differences also lie with each side
+Although we all knew that they did everything in their power to ensure that any deal would take place despite all arguments against our membership. But these things changed slowly just as globalization accelerated even more, and as the EU became more important. Without EU membership it would be very soon, from a business perspective, a major political change. We should only make certain countries have great influence in the post-Brexit world around the world — not the USA. It takes some kind of shift in political decision making as a general principle for EU membership to develop effectively.
+So instead of
+Generation Time: 9.1423 seconds
+Token Count: 234
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.5, top_k=50): 'Ready, set, go!', he said before turning back to see what the rest of Naughty Dog had taken of them and what he'd done here. The end came about quickly with this: Naughty Dog has brought a new edition of the Assassin's Creed game out with the introduction of its highly detailed and detailed cinematic graphics that let Naughty Dog look deeper at its original action action titles. But how does a gameplay that looks similar to previous title is that with two new additions, we've now gotten another "core new Assassin's Creed"!
+
+For now, there really isn't much room for such a game to do and will only grow into a more polished look – it seems in terms of story, content, and strategy, rather than a bad game from today. There were even plans to go back to full story without ever missing anything of substance. You should wait until tomorrow so you may find another Assassin's Creed game to take on a new genre, rather than looking up on the original Assassin's Creed. The game may as well be released immediately or simply under our names (although I personally think I really can't know for all how much of the new and old updates and updates were made, of course!) so far will probably continue to evolve in other ways and may indeed go deeper this new update
+Generation Time: 8.0885 seconds
+Token Count: 231
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.5, top_k=50): The sky is blue because black water makes you very good if it flows on it)
+This might be confusing to have experienced at any of these speeds! As to your position in space, if you’ have ever run into the water, do not leave it there and just drop it back under it.
+Generation Time: 1.8130 seconds
+Token Count: 54
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.5, top_k=50):  If this kind of stuff starts to become common knowledge around the internet, there›t would be fewer questions in Reddit but that might be a mistake, according to the team.
+
+
+
+"People have no idea what actually went on," said Gizmodo reporter Mike Tewan, with the words ‾, ‣¯̱\�s› (also pronounced дучна):
+"The thing is that this website just happens to give rise to a serious backlash against online speech, when we started at a really high level. People in Reddit and other forums came over on Reddit on a lot of offensive reasons. It›t was just a community discussion or a forum session – no place for harassment if those weren‚t coming over as fast to report a joke [in Reddit]. So we didn›t [go] far out (there was] this very weird thing called something that actually came out (there was one group of people I called ‪̓ɬј, which I put together in the early 1990s,• and I wrote the first piece) which we thought the idea would work: maybe for now this is an internet community with the power to put pressure on
+Generation Time: 7.7790 seconds
+Token Count: 184
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.5, top_k=50): ?DfsafaefgGHR
+
+
+I was already saying: Do not give us money – simply look at a number of documents. If possible, find your position. However – we give some basic facts about the case you brought with it to trial that must be met with some suspicion….
+I also noted in court that my father did not have access to the internet.
+There was a time in which our brother, Raghad, went to his uncle with some advice – he is only there at night to pay himself and ask for us money – to get us our last court salary; and now, after two hours he will call the police after they will get the wages paid properly, but with the help of his dad, Mr. Bhaddiya and Mr. Darshvendra.
+Bheen took over the family business this afternoon, at the end of the evening, with a group of people. They were then accompanied a long distance distance by our relatives, friends, and family. They have already spent about six days there, and you will surely be very soon to see the court documents.
+The matter now seems as if the family – their lawyers of the district office for which this decision is now awaiting review and determination – were preparing to file for their trial on this
+Generation Time: 7.9136 seconds
+Token Count: 218
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=50, temp=1.5, top_k=100): The pros and cons of the European Union are both more personal [?] or more public because these very issues don't justify so many more arguments. […]
+Generation Time: 0.7145 seconds
+Token Count: 27
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=50, temp=1.5, top_k=100): 'Ready, set, go!', he said with, then he took the steps to deliver them to The First Family. 'Now we finally finish.' 'Now let's hurry and take some time,' said a smile that had crossed the smile across his former husband's smile. 'But with care and all the time you lose, there is a lot to recover.' And knowing how his wholehearted sister was moving slowly to start her life during what was currently just his four years she began studying from home once a year under his wing. There had been some of the difficulties to live comfortably while her three different sisters helped make these arrangements that were easy for, but that much needed work.
+
+At some early age there was no denying, and so The Count was struggling to pay himself each day with very bad weather – and a very unusual fact of life.
+Not by chance, what he thought about having their own father come undone immediately. In this stage in life The Count – like all others in history. And here He could get into making quite a big shift. As always We now come back together and move into a relationship where She will see the future coming one too easily.
+In my time as Queen, not by his great faults. I did however need work of my own. Working on what I liked the
+Generation Time: 7.6190 seconds
+Token Count: 232
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=50, temp=1.5, top_k=100): The sky is blue because only one person knows where the redness is, so I recommend picking up the camera in your vehicle ahead of time and taking the picture as well, because by creating portraits of someone as good as you could to make them out. I had two different people do that every day, if I had a favorite one and they asked me how excited I would be for it when it appeared on screen over dinner
+I knew about Photoshop almost 20 years or so ago that when I first heard the blog I expected, when they let me bring its amazing effect – from me coming from the Netherlands, the house I was living there, it turned out that I had discovered what amazing everything you'd find in Photoshop. When talking about this I quickly became convinced it was an extension of my image project — to capture incredible light and shadows and colours…
+In 2007 another group of photographers had turned into work with a huge website called "Urban Photography. Or, like everyone had done it then about 10 or so pages had already been published or been put to use with images at different locations, so I needed the money to start creating some video. People were willing to provide whatever amount of detail their face can (they all knew…) for several months, going back to a company called Goudnikka
+Generation Time: 7.7544 seconds
+Token Count: 237
+--------------------------------------------------
+
+Prompt:  
+Generated (len=50, temp=1.5, top_k=100):   in The Atlantic. In 1984/85 he lost a contract during the course of a trip he set about working "for their country…not out of charity."[1j]
+References [i]
+Generation Time: 1.4619 seconds
+Token Count: 27
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=50, temp=1.5, top_k=100): ?DfsafaefgGHRF+s, lxd.js - 1.5b
+: 1.5b 3f 4.2f 5ff
+"0:00'": 7d - 1.68; dffefgghcbc42d35f32e626284041d80d94d534f54ea073e4c9fd1e2513a75ba6267826fd92267122419,...
+Generation Time: 2.9506 seconds
+Token Count: 14
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=0.5, top_k=10): The pros and cons of the European Union are the same. It is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European Union, and it is a matter of what you want to see in the European
+Generation Time: 7.8629 seconds
+Token Count: 249
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=0.5, top_k=10): 'Ready, set, go!', he said.
+
+
+
+"I know what I'm doing, but I'm not going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going to go back. I'm going
+Generation Time: 8.2415 seconds
+Token Count: 184
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=0.5, top_k=10): The sky is blue because it is not clear what the sky is and what the sky is not.”
+Generation Time: 0.4649 seconds
+Token Count: 19
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=0.5, top_k=10):   A recent study of a group of children in the United States found that the prevalence of obesity among children is higher than that of children in the United States.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 8.5768 seconds
+Token Count: 30
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=0.5, top_k=10): ?DfsafaefgGHRGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQ
+Generation Time: 6.2427 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=0.5, top_k=50): The pros and cons of the European Union are not the same. They are different.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 9.8647 seconds
+Token Count: 15
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=0.5, top_k=50): 'Ready, set, go!', he said.
+
+
+
+"I'm a genius, and I'm going to play a lot of games with a lot of people who will be interested in the game, but I can't say I'm not going to play it for a long time."
+"I'm not going to be playing it for long, and I'm going to play it for a long time."
+Generation Time: 2.0863 seconds
+Token Count: 62
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=0.5, top_k=50): The sky is blue because of the sun.
+
+
+
+
+
+
+
+
+The sky is blue because of the sun.
+
+The sky is green because of the sun.
+The sky is gray because of the sun.
+The sky is white because of the sun.
+The sky is blue because of the sun.
+The sky is black because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky is white because of the sun.
+The sky
+Generation Time: 10.0310 seconds
+Token Count: 202
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=0.5, top_k=50):   and that‹.
+
+The most important thing about the project is that it is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is not a project that is a project that is not a project that is a project that is not a project that is not a project that is a project that is not a project that is a project that is not a project that is a project that is not a project that is a project
+Generation Time: 9.5609 seconds
+Token Count: 250
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=0.5, top_k=50): ?DfsafaefgGHRW.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generation Time: 9.9261 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=0.5, top_k=100): The pros and cons of the European Union are all about the European Union, and the only way to do so is to go back to the days of the EU.
+
+
+And it’s a good thing that the US and EU have already been working on a mutually beneficial relationship.
+And it’s a good thing that the US and EU have already been working on a mutually beneficial relationship.
+Generation Time: 2.8224 seconds
+Token Count: 69
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=0.5, top_k=100): 'Ready, set, go!', he said. "We're going to get the best of this team."
+
+
+
+"You're going to be the best. We're going to get the best of this team," he said. "We're going to get the best of this team. We're going to get the best of this team."
+"We're going to get the best of this team," he said. "We're going to get the best of this team."
+Generation Time: 3.2808 seconds
+Token Count: 69
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=0.5, top_k=100): The sky is blue because of the sun.
+
+
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+The sky is blue because of the sun.
+Generation Time: 9.4453 seconds
+Token Count: 208
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=0.5, top_k=100):   The first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I‬🏽“, I was a little confused. I thought I‬🏽“ was the first time I heard of the “I�
+Generation Time: 7.4369 seconds
+Token Count: 127
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=0.5, top_k=100): ?DfsafaefgGHRyGQR3r9QFJQ6rZtB5jd3gT0aTQQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9QFJQ3jQ6rZtB5jd3gT0aTQZU9Q
+Generation Time: 8.5997 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=1.0, top_k=10): The pros and cons of the European Union are not the only ones concerned about a possible collapse in the EU, with some leading European institutions, such as the European Council, the European Economic Community and the European Stability and Growth Mechanism.
+
+
+
+"It's not the European Community or the European Union that can be taken to a new stage and be put on notice. But in the end the EU has not taken the lead.
+"There are a lot of countries and organizations that want to be part of it and are trying to achieve it. But it's not easy."
+It is a question of whether there is a consensus, but the European Commission, which is the body responsible for ensuring the EU is properly integrated into the EU, should be able to work on this, in particular as a mechanism for the creation of an integrated European market and the integration of its member states into the EU.
+"The European Commission is not the only place where the European Parliament is involved in its deliberations. In fact, we have been involved in a lot of discussions on that."
+Generation Time: 7.5331 seconds
+Token Count: 189
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=1.0, top_k=10): 'Ready, set, go!', he said. He took a moment to watch the camera roll down and he was so excited, he said, "It's a dream!" He was so excited that I said, "What a surprise. I've seen some people who are doing this. The people who've been doing this are the same. This is something that I'm really happy about." He was so excited. The people who've been doing this are the same. The people who've been doing this are the same. This is something that I'm really happy about."
+
+
+
+In fact, in the next two days, a group of women were arrested in New York City for allegedly filming a group of New York City police officers, in a bid to get a warrant for their involvement in a shooting on Staten Island in 2011.
+According to police, the group was filmed outside their apartment building in Manhattan in the early hours of August 11, 2011, when an altercation broke out between a NYPD officer and an unarmed bystander.
+"The man was shot on the head, and he was on the ground and he was bleeding, and he was bleeding, and he looked at his body and said, "Get out of your shoes!" The video was taken at that time by NYPD officer, but police
+Generation Time: 8.3659 seconds
+Token Count: 216
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=1.0, top_k=10): The sky is blue because of the color changes. It's dark because it's cloudy.
+The sky is blue because it's cloudy.
+In fact, the sky's blue because of the color changes. It's dark because it's cloudy.
+In fact, the sky's blue because it's cloudy.
+It's cloudy because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+In fact, the sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+The sky's blue because it's cloudy.
+This map of the sky is created by The Sky Science Foundation. It was created by The Sky Science Foundation.
+Image credit: The Sky Science Foundation
+Generation Time: 6.4793 seconds
+Token Count: 131
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=1.0, top_k=10):  
+The New York Times and the Los Angeles Times published this story in a piece entitled “The New York Times: ‡The Washington Post and the Washington Post are the latest news organizations to report that the New England Journal of Public Opinion (NYT) has endorsed Hillary Clinton.․
+
+
+
+‡
+
+
+
+The New York Times and the Washington Post are the latest news organizations to report that the New York Times has endorsed Hillary Clinton.․
+But the Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton.
+The Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton.
+The Washington Post is the latest news organizations to report that the New York Times has endorsed Clinton.
+The Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton.
+The Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton. The Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton.
+The Washington Post is the latest news organizations to report that the New York Times has endorsed Hillary Clinton.
+The New York Times is the latest news organizations to report that the
+Generation Time: 8.4572 seconds
+Token Count: 218
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=1.0, top_k=10): ?DfsafaefgGHRHVYQYQRKVXZYQYZTXHQZZTZTZYQZZTZYQZTZYQZTZRKVXZYQZTZYQZTZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZTZYQZ
+Generation Time: 9.0680 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=1.0, top_k=50): The pros and cons of the European Union are so many and so many that they come together over and over and over for months as to tell us what it takes to succeed, how it feels and what it can be. We can tell by seeing the great strides in this process that the European Union is taking and what the new rules and guidelines are being put in place. And when they are out there, I can offer a short recap:
+
+• EU member states are using new rules to improve their own situation
+• UK law is being changed so that people can live in better places in the world
+• Trade agreements are implemented in so many countries to cut their labour costs (and make the economy more competitive)
+• We are going to leave the EU by the end of 2015 – in line with all the other EU policymaking frameworks that are being presented in Brussels in the United Kingdom.
+We are taking a big step forward. The Council of Europe has put up a strong public warning alerting people to make their decisions. We are taking a big step forward with the European Union and putting up an alerting people to make their decisions.
+We are taking a big step forward with the Council of Europe and adding the new rules and guidelines in order to ensure the success of our new rules and regulations.
+
+Generation Time: 8.6699 seconds
+Token Count: 242
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=1.0, top_k=50): 'Ready, set, go!', he said, not wanting to let this be the same as his way but trying to show it to everyone.
+
+
+"It is a lot to put in. You want to have the best possible performance like this where we're going to be able to show all the amazing talent you've got. Now that the players are in the team, that whole situation will change with a lot of people. We will have more and more players to come and show the best, and all of them can be seen."
+"We'll be honest, we know how to respond to those problems."
+He said: "One of the things is that if the player is not playing the game properly, or there isn't a manager or a manager, the player needs to find himself out for himself. But you do have to also think when you are trying to make good decisions.
+"You have to ask yourself sometimes, who's going to play the game and what the person will bring out of when he comes out on top? What do you do if your goal is to stop playing it? If you are going to make sure the player is in the middle of the match, how will you do if they come out of nowhere?
+"For me, the answer is not yes
+Generation Time: 8.2499 seconds
+Token Count: 223
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=1.0, top_k=50): The sky is blue because it gives you a sense of something, something inside, something inside. It is like a glowing light coming from the sky below. And because of its color in the sky, the sky is a pinkish green. Now that it is getting a little better, it will come to feel like its blueish yellow. And that will be good for your sleep, because you will get a good, nice feeling about you.
+
+The idea of a deep sleep is that it is a place where you will feel that you are going to feel that you will feel that you can feel that you are a perfect person. When in the real world, the dream you are living in will almost be that you are right! In reality, you are the normal person that you are living in. So the dream you are living in will almost be that you are always dreaming about.
+Generation Time: 5.9013 seconds
+Token Count: 158
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=1.0, top_k=50):   to see the picture. [ edit ]
+
+
+
+
+
+
+
+He had three sons [ edit ]
+
+
+
+
+
+
+He had two sons (one of whom had to be born in China), and
+
+
+
+
+
+
+The youngest son was 4.
+
+
+
+The seventh, named after the surname of a Chinese (the surname of the Chinese)
+
+The fifth, named after the surname of the Chinese (the name of the Chinese)
+His fifth birthday had taken place on April 2, 1964;
+The fifth has never been officially known.
+
+[38][39][40] The last known name
+
+The two children were born on May 31, 1975, around 5:30 am, and his wife, aged 5 years, were in Australia on July 9, 1998. They have been separated by five years, so they can have their lives changed. There are three children in Australia:
+Catherine [40][41]
+
+Ravi [42]
+Ekram [43]
+Aditya [44][45]
+Johan [26]
+Sheikh [27]
+Yushchenko [28]
+Sheikh [29]
+Jushchenko [32]
+Generation Time: 8.0074 seconds
+Token Count: 146
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=1.0, top_k=50): ?DfsafaefgGHRG1qXVlQ6yW8yYKf3K8wC6QI. — The FBI announced today it had been suspended by the bureau over a string of unrelated "federal security matters involving Hillary Clinton and her husband."
+
+
+
+
+"The FBI is reviewing the FBI response to the recent federal complaint by the Democratic Party and Democratic National Committee (DNC) against the Democratic Party's efforts to discredit Hillary Clinton's run for the presidency of the United States," FBI Director James Comey said in a statement today. "There are no appropriate legal procedures to further investigate the matter in a timely way."
+Clinton had previously told the House Intelligence Committee it was possible Clinton would have had an "extremely careless use of a private email server."
+"There is no question that she is running that race in some ways," the FBI's Robert Mueller spokesman said. "Furthermore, the FBI is being investigated in an ongoing manner and that there is no reason to doubt that it was inappropriate to do so.
+"Since she was elected President of the United States in 2008, there have been no indications that her candidacy has not been properly investigated. Her conduct with respect to the State Department was consistent with the Department of Justice's position as the
+Generation Time: 8.4383 seconds
+Token Count: 199
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=1.0, top_k=100): The pros and cons of the European Union are always looking for better ways to deal with issues that we have no control over but at the same time we are not against everything right now in the European Union, but with a lot less to worry about.
+
+
+And if you’ve got to face the challenges with the European Union, it's essential to think hard, and can take time to overcome that!
+Generation Time: 2.5520 seconds
+Token Count: 72
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=1.0, top_k=100): 'Ready, set, go!', he said; "Take my hands off the rock, and carry my leg over it, and walk the walk with my neck. We meet the rock and take a horse, and drive the horses to our camp..."
+
+Johana was getting a bit sleepy when she decided to go back to her bed the later that afternoon. She thought her daughter's birthday party was before the holidays, and then said it would be her birthday just to end her week. She did nothing but leave the room and woke up to her parents and friends. After putting back the nap she woke up right by the front door. "Yay!" She said. "Stop, wait, we're going to watch the movie," she whispered into her bed she sighed, then said, "What did I do?"
+Her face was starting to get pained, all pale in the morning. There was no sign of comfort and only her best friend would need help, even after getting him and her back to bed.
+She looked up at her parents and said, "When am I going to go back to them?" He grinned and laughed. Then he said, "Mmm, I'm gonna go home to bed and give you a break," then closed his eyes. "We can, just
+Generation Time: 9.1349 seconds
+Token Count: 211
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=1.0, top_k=100): The sky is blue because of the blue channel.‽
+As you go down: the bright sky is blue. If you  were to turn it out into a blue channel, you would see the moon. See more of you on Kain, and you could come back in time for the stars. You can visit us outside of this one scene.
+As you go down: the bright sky is blue. If you  were to turn it out into a blue channel, you would see the moon. See more of you on Kain, and you could come back in time for the stars. You can go down: the bright sky is blue. If you  were to turn it out into a blue channel, you would see the moon. See more of you on Kain, and you could come back in time for the stars.
+As you go down: the bright sky is blue. If you  were to turn it out into a blue channel, you would see the moon. See more of you on Kain, and you could come back in time for the stars.
+With my friend, if you decide to take your own shot at this scene I suggest playing around in the darkness every 6 seconds to see if you  can see a perfect
+Generation Time: 9.2151 seconds
+Token Count: 214
+--------------------------------------------------
+
+Prompt:  
+Generated (len=100, temp=1.0, top_k=100):  
+This is a very good example of an interesting and unusual situation in where it is really easy to change views of topics at different times, depending on the particular view we are going to use.
+
+Now don't try to forget to use my previous post about two ideas for why I created the example in Go. Let› just remember that I only wanted to add the following two ideas:
+
+In this example we will introduce three variables to change the mainview from a (only) data structure of some sort, or where the data can be changed
+In this second, I will see how that results into something more like this:
+Suppose that if the views are changed, why is the change a thing? The number of events that every view happens to need to change in this context, as the data structure and the state change are immutable.
+Here are some examples of a change that can be seen within a context in /etc/base/src.h
+Let› just remember that my previous comment on "a 'a'something'is already changed' now is clearly not the same when the view changed. This might not sound weird but in this example the changes are immutable.
+We can do this again in Go!
+In
+Generation Time: 9.5450 seconds
+Token Count: 208
+--------------------------------------------------
+
+Prompt: ?DfsafaefgGHR
+Generated (len=100, temp=1.0, top_k=100): ?DfsafaefgGHRUZYcFgYdNj8UdUdUjUtUE6iMkMW1hW7bMjmE8UZtUoMwE9InMjG1FjGE7gMVgM5R6mU7mAjRmI5cNjL0NjHM2njjL0NCmU9U93mCGI5mYcmIguMzLsMsmaUscMjMwE3zL0NjM5hW7bMjMjMwBxC6F7gMvccmiZnhXbmGUjYZmUg5M3mM5H3M5E5Mgc5MzL1O4ODgUcL0M2igZmIg5M5Lm50NmM0nC0Um1AjRmI5cNjL0NjM5hW7bMjMwC9U93mCGI5mYcmIguMzLsMsmaUscMjM
+Generation Time: 9.5471 seconds
+Token Count: 1
+--------------------------------------------------
+
+Prompt: The pros and cons of the European Union are
+Generated (len=100, temp=1.5, top_k=10): The pros and cons of the European Union are the same and they both need to work together to make sure they meet their common needs and their shared goals in their areas.
+The EU has a responsibility for making sure we work together, which has been shared by the European Union. If you think Europe needs something new to make it more inclusive, you may have to look at the EU to understand that the bloc is not an independent organisation. In Europe we do have responsibilities for that, so the EU should work towards developing and working alongside the Member States to create and improve our own policies and policies in order to better meet the common interests at our disposal to ensure that our European values do not clash with their common goals. In addition we want EU leaders to ensure that we support our European interests in Europe, as much as possible, while maintaining a strong, stable, inclusive EU. This would not be possible without a strong, democratic EU, with the help and the support of all EU member states.
+The EU has a responsibility to create and improve its own policy and policies in order to help make sure that our EU values do not clash with their common goals as well as their common goals. In addition we want EU leaders to ensure that we support our European values in Europe, as much as possible, while maintaining a strong
+Generation Time: 8.9803 seconds
+Token Count: 245
+--------------------------------------------------
+
+Prompt: 'Ready, set, go!', he said
+Generated (len=100, temp=1.5, top_k=10): 'Ready, set, go!', he said in his final word on a visit to Stuttgart.
+Generation Time: 0.3910 seconds
+Token Count: 14
+--------------------------------------------------
+
+Prompt: The sky is blue because
+Generated (len=100, temp=1.5, top_k=10): The sky is blue because the sky is blue; the sky is blue because the sky is blue.
+
+It is a sign of the great power of God. It is that our world and the people of Christ are created.
+In the Bible, God is a man and the Lord is God. And the only way for us to get to Him and His glory in our lives is through the power of God: He is in His grace; He's our Father, His God, and His God. And the only way that we get here is through the power of the Lord, our Lord and His God. The only way to do that is through this power:
+The power of God and the Lord is our Lord.
+It was not an attempt to get into our way. We had a chance of getting in our way and we could see God in action. In a different manner we could be in the way we wanted to. But we could do it in a different manner.
+The Bible says:
+There is an abundance of power and there are many things, but it does not have the necessary force, or any power. God does not possess any power to change his actions.
+There are all the things that he is not able to change, no power to make his
