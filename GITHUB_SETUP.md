@@ -114,7 +114,10 @@ The following files are ready to be committed:
 
 ## Troubleshooting
 
-- **Permission denied:** Make sure you have write access to the repository
+- **Permission denied / Authentication errors:** 
+  - Make sure you've forked the repository on GitHub first
+  - Ensure you're pushing to your fork, not the original repo
+  - Check that you're authenticated with GitHub (may need to set up SSH keys or use a personal access token)
 - **Branch already exists:** Use a different branch name or delete the old one
 - **Merge conflicts:** Pull latest changes first: `git pull origin main`
 
