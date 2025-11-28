@@ -1,0 +1,48 @@
+from transformers import pipeline
+import time
+from itertools import product
+
+# Set up generator
+generator = pipeline("text-generation", model="distilgpt2")
+
+lengths       = [20, 50, 100]
+temperatures  = [0.5, 1.0, 1.5]
+top_k_values  = [10, 50, 100]
+
+prompts = [
+    "The pros and cons of the European Union are",
+    "'Ready, set, go!', he said",
+    "The sky is blue because",
+    " ",
+    "?DfsafaefgGHR",
+]
+
+all_times = []
+all_tokens = []
+
+'''with open("results.txt", "a", encoding="utf-8") as f:'''
+for length, temp, top_k in product(lengths, temperatures, top_k_values):
+    for prompt in prompts:
+        start = time.time()
+        output = generator(
+            prompt,
+            max_length=length,
+            temperature=temp,
+            top_k=top_k,
+        )
+        duration = time.time() - start
+        all_times.append(duration)
+
+        text = output[0]["generated_text"]
+        token_count = len(text.split())
+        all_tokens.append(token_count)
+'''
+            f.write(f"\nPrompt: {prompt}\n")
+            f.write(f"Generated (len={length}, temp={temp}, top_k={top_k}): {text}\n")
+            f.write(f"Generation Time: {duration:.4f} seconds\n")
+            f.write(f"Token Count: {token_count}\n")
+            f.write("-" * 50 + "\n")
+'''
+avg_time = sum(all_times) / len(all_times)
+avg_tokens = sum(all_tokens) / len(all_tokens)
+print(f"Average Generation Time: {avg_time:.4f} seconds")
