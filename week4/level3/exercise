@@ -1,0 +1,63 @@
+"""
+Week 4 Diagnostic Task — Embeddings & Retrieval
+
+LEVEL 1  → Turn sentences into vectors, measure cosine similarity, print nearest neighbours.
+LEVEL 2  → Build `semantic_search.py` (20-30 docs + interactive queries).
+LEVEL 3  → Pick ONE: quality metric (`quality_results.txt`) OR tiny RAG loop (`rag_comparison.txt`).
+LEVEL 4  → Freestyle retrieval-based tool with sample outputs + "what I'd improve next".
+
+Most students should stop after Level 2. Levels 3-4 are optional Tier 3 stretch goals.
+"""
+
+import time
+from sentence_transformers import SentenceTransformer
+from transformers import pipeline
+
+# Set up generator
+generator = pipeline("text-generation", model="distilgpt2") # this generates outputs per query
+
+MODEL_NAME = "sentence-transformers/paraphrase-MiniLM-L6-v2" # this creates embeddings from the outputs and the questions
+
+outputs = []
+prompts=[
+     
+     'Roses are red, violets are blue,',
+     'In a galaxy far, far away,',
+
+]
+
+for prompt in prompts:
+        output = generator(
+            prompt,
+            max_new_tokens=100,
+            temperature=0.7,
+            top_k=50,
+        )
+        text = output[0]["generated_text"]
+        text = text.replace('\n', '') #cleans newlines
+        text = text[len(prompt):].strip() #removes the prompt from the generated text
+        outputs.append(text)
+print(outputs)
+
+def main() -> None:
+    print(f"Loading model: {MODEL_NAME}")
+    model = SentenceTransformer(MODEL_NAME)
+
+    start = time.perf_counter()
+    output_embeddings = model.encode(outputs, normalize_embeddings=True)
+    prompt_embeddings = model.encode(prompts, normalize_embeddings=True)
+    print(f"Encoded {len(outputs)+len(prompts)} sentences/prompts in {time.perf_counter() - start:.2f}s")
+
+    # Cosine similarity matrix (vectors are L2-normalised, so dot product == cosine)
+    similarities = model.similarity(prompt_embeddings, output_embeddings)
+    for idx, prompt in enumerate(prompts):
+        row = similarities[idx]
+        best_match_idx = row.argmax()
+        best_score = row[best_match_idx]
+        print(f"\nPrompt: {prompt}")
+        print(f"Best Match: {outputs[best_match_idx]}")
+        print(f"Cosine Similarity: {best_score:.4f}")
+            
+
+if __name__ == "__main__":
+    main()
